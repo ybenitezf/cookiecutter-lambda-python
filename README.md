@@ -31,3 +31,13 @@ self.func = lambda_.Function(
 ```
 
 Adding the package builded from the boilerplate to the `requirements.txt` in the prior code.
+
+## How to use
+
+Install cookiecutter (https://cookiecutter.readthedocs.io/en/stable/installation.html)
+
+```bash
+cookiecutter https://github.com/ybenitezf/cookiecutter-lambda-python
+```
+
+Answer the questions and enjoy the configured project.
