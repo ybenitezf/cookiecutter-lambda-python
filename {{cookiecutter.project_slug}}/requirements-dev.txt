@@ -1,0 +1,7 @@
+-e .
+# fixed dependencies
+pytest
+coverage
+pylint
+flake8
+build
