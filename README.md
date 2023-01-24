@@ -1,6 +1,6 @@
 # Python boilerplate code to use with AWS Lambda
 
-This is a cookiecutter to fast setup a Python project to use witch lambda. The idea behind is that the lambda handler will be keeping it the must simple posible while all the logic will go to the package.
+This is a cookiecutter to fast setup a Python project to use with lambda. The idea behind is that the lambda handler will be keeped as simple as posible while all the logic will go to the package.
 
 I recommend to use this in conjugation with AWS CDK and this form of code bundling:
 
